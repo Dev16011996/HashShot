@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">#Shot</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Smile</string>
+    <string name="slide_1_desc">Enjoy every moments with a smile</string>
+
+    <string name="slide_2_title">Capture</string>
+    <string name="slide_2_desc">Capture the beautiful moments of Your Life!</string>
+
+    <string name="slide_3_title">Tag Friends</string>
+    <string name="slide_3_desc">Tag your Friends and have Fun With them!</string>
+
+    <string name="slide_4_title">Share</string>
+    <string name="slide_4_desc">Share With Your Loved One`s</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <string name="Welcome">App Name</string>
+    <string name="Discover">Explore The Wide Range Of Apps!</string>
+</resources>
